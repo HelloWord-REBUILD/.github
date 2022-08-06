@@ -6,6 +6,19 @@ HelloWord-REBUILD
 ## 路线图
 
 - [ ] 原理图整理
-- [ ] ZMK 移植 (Keyboard 主体)
-- [ ] ZMK 移植 (Dynamic 模块)
+    - [x] Keyboard
+    - [ ] Hub
+    - [ ] Dynamic
+- [ ] ZMK 移植
+    - [ ] Keyboard
+        - [x] 74HC165
+        - [ ] RGB
+        - [ ] Touch
+    - [ ] Dynamic
+        - [ ] OLED
+        - [ ] Encoder
+        - [ ] E-Ink
+- [ ] Bootloader
 - [ ] 更详细的文档、扩展模块设计指南、软件二次开发指南
+
+![](https://github.com/peng-zhihui/HelloWord-Keyboard/raw/main/5.Docs/2.Images/hw5.png)
