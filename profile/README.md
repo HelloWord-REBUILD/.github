@@ -5,11 +5,11 @@ HelloWord-REBUILD
 
 ## 路线图
 
-- [ ] 原理图整理
-    - [x] Keyboard
+- [ ] [原理图整理](https://github.com/HelloWord-REBUILD/schematics)
+    - [x] [Keyboard](https://github.com/HelloWord-REBUILD/schematics/raw/master/HelloWord-Keyboard_SCH.PDF)
     - [ ] Hub
     - [ ] Dynamic
-- [ ] ZMK 移植
+- [ ] [ZMK](https://github.com/HelloWord-REBUILD/zmk)
     - [ ] Keyboard
         - [x] 74HC165
         - [ ] RGB
