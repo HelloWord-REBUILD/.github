@@ -18,7 +18,7 @@ HelloWord-REBUILD
         - [ ] OLED
         - [ ] Encoder
         - [ ] E-Ink
-- [ ] Bootloader
+- [x] [Bootloader](https://github.com/HelloWord-REBUILD/stm32-hid-bootloader)
 - [ ] 更详细的文档、扩展模块设计指南、软件二次开发指南
 
 ![](https://github.com/peng-zhihui/HelloWord-Keyboard/raw/main/5.Docs/2.Images/hw5.png)
