@@ -8,7 +8,7 @@ HelloWord-REBUILD
 - [ ] [原理图整理](https://github.com/HelloWord-REBUILD/schematics)
     - [x] [Keyboard](https://github.com/HelloWord-REBUILD/schematics/raw/master/HelloWord-Keyboard_SCH.PDF)
     - [ ] Hub
-    - [ ] Dynamic
+    - [x] [Dynamic](https://github.com/HelloWord-REBUILD/schematics/raw/master/HelloWord-Dynamic_SCH.PDF)
 - [ ] [ZMK](https://github.com/HelloWord-REBUILD/zmk)
     - [ ] Keyboard
         - [x] 74HC165
